@@ -2,14 +2,14 @@
 - [Introduction](README.md)
 
 ## PAPER LIST
-- [MLSYS](MLSYS/README.md)
-	- [LLM](MLSYS/LLM/README.md)
-	- [Agent](MLSYS/Agent/README.md)
+- [MLSYS](Lists/MLSYS/README.md)
+	- [LLM](Lists/MLSYS/LLM/README.md)
+	- [Agent](Lists/MLSYS/Agent/README.md)
 
 ## READING NOTES
-- [Conference](Conference/README.md)
-	- [ASPLOS24](Conference/ASPLOS24/README.md)
-	- [ASPLOS23](Conference/ASPLOS23/README.md)
-- [Journal](Journal/README.md)
-- [Arxiv](Arxiv/README.md)
-- [Blog](Blog/README.md)
+- [Conference](Notes/Conference/README.md)
+	- [ASPLOS24](Notes/Conference/ASPLOS24/README.md)
+	- [ASPLOS23](Notes/Conference/ASPLOS23/README.md)
+- [Journal](Notes/Journal/README.md)
+- [Arxiv](Notes/Arxiv/README.md)
+- [Blog](Notes/Blog/README.md)
