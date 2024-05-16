@@ -9,7 +9,9 @@ jobs:
     steps:
     - name: Checkout action
       uses: actions/checkout@v2
-    - name: Gitbook Action
-      uses: zanderzhao/gitbook-action@v1.2.4
+    - name: Deploy
+      uses: JamesIves/github-pages-deploy-action@3.1.5
       with:
-        token: ${{ secrets.GH_ACCESS_TOKEN }}
+        ACCESS_TOKEN: ${{ secrets.TOKEN }}
+        BRANCH: gh-pages
+        FOLDER: _book
