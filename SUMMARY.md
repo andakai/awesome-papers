@@ -11,5 +11,7 @@
 	- [ASPLOS24](Notes/Conference/ASPLOS24/README.md)
 	- [ASPLOS23](Notes/Conference/ASPLOS23/README.md)
 - [Journal](Notes/Journal/README.md)
-- [Arxiv](Notes/Arxiv/README.md)
+- [arXiv](Notes/arXiv/README.md)
+	- 
 - [Blog](Notes/Blog/README.md)
+
