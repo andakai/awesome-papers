@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "gitbook-plugin-search-pro": "^2.0.2"
+    "gitbook-plugin-search-pro": "^2.0.2",
+    "hexo-theme-stellar": "^1.28.1"
   }
 }
