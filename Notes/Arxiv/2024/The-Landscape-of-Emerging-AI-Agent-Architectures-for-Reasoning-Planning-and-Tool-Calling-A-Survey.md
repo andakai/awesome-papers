@@ -20,6 +20,7 @@
 - Tool calling
 	- 区别于普通的prompt-base的模型的点，即可以call tools
 	- 外部的数据源、利用已有的API
+
 ## Single Agent
 > “We find that single agent architectures are especially useful when the task requires straightforward function calling and does not need feedback from another agent” 
 
