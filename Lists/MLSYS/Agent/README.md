@@ -1,7 +1,7 @@
 # Agent
 ## Survey
-- [arXiv24]  [The-Landscape-of-Emerging-AI-Agent-Architectures-for-Reasoning-Planning-and-Tool-Calling-A-Survey](../../../Notes/Arxiv/2024/The-Landscape-of-Emerging-AI-Agent-Architectures-for-Reasoning-Planning-and-Tool-Calling-A-Survey.md)  [paper](https://arxiv.org/abs/2404.11584)
-- [arXiv24]  From Persona to Personalization: A Survey on Role-Playing Language Agents [[paper](https://arxiv.org/abs/2404.18231)]
+- [arXiv24] The-Landscape-of-Emerging-AI-Agent-Architectures-for-Reasoning-Planning-and-Tool-Calling-A-Survey  [paper](https://arxiv.org/abs/2404.11584)  [note](../../../Notes/Arxiv/2024/The-Landscape-of-Emerging-AI-Agent-Architectures-for-Reasoning-Planning-and-Tool-Calling-A-Survey.md)
+- [arXiv24]  From Persona to Personalization: A Survey on Role-Playing Language Agents [paper](https://arxiv.org/abs/2404.18231)
 
 ## Single Agent
 - [ICLR23]  ReAct: Synergizing Reasoning and Acting in Language Models [paper](https://arxiv.org/abs/2210.03629) [code](https://github.com/ysymyth/ReAct)
