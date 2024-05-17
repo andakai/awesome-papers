@@ -9,7 +9,6 @@
 ## READING NOTES
 - [Conference](Notes/Conference/README.md)
 	- [ASPLOS24](Notes/Conference/ASPLOS24/README.md)
-	- [ASPLOS23](Notes/Conference/ASPLOS23/README.md)
 - [Journal](Notes/Journal/README.md)
 - [arXiv](Notes/arXiv/README.md)
 	- [2024](Notes/arXiv/2024/README.md)
