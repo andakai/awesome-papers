@@ -1,6 +1,6 @@
 # Agent
 ## Survey
-- [arXiv24]  [The-Landscape-of-Emerging-AI-Agent-Architectures-for-Reasoning-Planning-and-Tool-Calling-A-Survey](../../../../The-Landscape-of-Emerging-AI-Agent-Architectures-for-Reasoning-Planning-and-Tool-Calling-A-Survey.md)  [paper](https://arxiv.org/abs/2404.11584)
+- [arXiv24]  [The-Landscape-of-Emerging-AI-Agent-Architectures-for-Reasoning-Planning-and-Tool-Calling-A-Survey](../../../Notes/Arxiv/2024/The-Landscape-of-Emerging-AI-Agent-Architectures-for-Reasoning-Planning-and-Tool-Calling-A-Survey.md)  [paper](https://arxiv.org/abs/2404.11584)
 - [arXiv24]  From Persona to Personalization: A Survey on Role-Playing Language Agents [[paper](https://arxiv.org/abs/2404.18231)]
 
 ## Single Agent

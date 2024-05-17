@@ -12,5 +12,6 @@
 - [Journal](Notes/Journal/README.md)
 - [Arxiv](Notes/Arxiv/README.md)
 	- [2024](Notes/Arxiv/2024/README.md)
+		- [The-Landscape-of-Emerging-AI-Agent-Architectures-for-Reasoning-Planning-and-Tool-Calling-A-Survey](Notes/Arxiv/2024/The-Landscape-of-Emerging-AI-Agent-Architectures-for-Reasoning-Planning-and-Tool-Calling-A-Survey.md)
 - [Blog](Notes/Blog/README.md)
 
