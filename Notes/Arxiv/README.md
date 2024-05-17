@@ -1,2 +1,2 @@
-# Arxiv
+# arXiv
 arXiv
