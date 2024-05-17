@@ -21,7 +21,7 @@
 	- 区别于普通的prompt-base的模型的点，即可以call tools
 	- 外部的数据源、利用已有的API
 ## Single Agent
-> “We find that single agent architectures are especially useful <mark style="background: #0BC2E3;">when the task requires straightforward function calling and does not need feedback from another agent</mark>” 
+> “We find that single agent architectures are especially useful when the task requires straightforward function calling and does not need feedback from another agent” 
 
 - ReAct：
 	- Reason + Act
@@ -45,7 +45,7 @@
 	- 缺点：算法复杂性高
 
 ## Multi Agent
-> “Multi-agent architectures create an opportunity for both the intelligent <mark style="background: #0BC2E3;">division of labor </mark><mark style="background: #0BC2E3;">based on skill and helpful</mark> feedback from a variety of agent personas.”
+> “Multi-agent architectures create an opportunity for both the intelligent division of labor based on skill and helpfu feedback from a variety of agent personas.”
 
 clear leadership
 dynamic team construction
