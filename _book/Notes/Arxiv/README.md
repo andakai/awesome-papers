@@ -1,2 +1,1 @@
 # arXiv
-arXiv
