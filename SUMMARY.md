@@ -9,6 +9,8 @@
 ## READING NOTES
 - [Conference](Notes/Conference/README.md)
 	- [ASPLOS24](Notes/Conference/ASPLOS24/README.md)
+	- [NIPS22](Notes/Conference/NIPS22/README.md)
+		- [WebShop-Towards-Scalable-Real-World-Web Interaction-with-Grounded-Language-Agents](Notes/Conference/NIPS22/WebShop-Towards-Scalable-Real-World-Web%20Interaction-with-Grounded-Language-Agents.md)
 - [Journal](Notes/Journal/README.md)
 - [Arxiv](Notes/Arxiv/README.md)
 	- [2024](Notes/Arxiv/2024/README.md)
