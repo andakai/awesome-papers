@@ -13,7 +13,10 @@
 - [Arxiv](Notes/Arxiv/README.md)
 	- [2024](Notes/Arxiv/2024/README.md)
 		- [The-Landscape-of-Emerging-AI-Agent-Architectures-for-Reasoning-Planning-and-Tool-Calling-A-Survey](Notes/Arxiv/2024/The-Landscape-of-Emerging-AI-Agent-Architectures-for-Reasoning-Planning-and-Tool-Calling-A-Survey.md)
+		- [A-Survey-on-Large-Language-Model-based-Autonomous-Agents](Notes/Arxiv/2024/A-Survey-on-Large-Language-Model-based-Autonomous-Agents.md)
 - [Blog](Notes/Blog/README.md)
+	- [2024](Notes/Blog/2024/README.md)
+		- [The-Shift-from-Models-to-Compound-AI-Systems](Notes/Blog/2024/The-Shift-from-Models-to-Compound-AI-Systems.md)
 
 
 

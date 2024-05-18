@@ -27,7 +27,8 @@
          "tbfed-pagefooter",
          "autotheme",
          "anchors",
-         "disqus"
+         "disqus",
+         "katex"
     ],
     "pluginsConfig": {
         "github": {
