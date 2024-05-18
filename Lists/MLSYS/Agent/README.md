@@ -26,7 +26,7 @@
 - [ICLR24] MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework. [paper](https://arxiv.org/abs/2308.00352) [code](https://github.com/geekan/MetaGPT)
 
 ## Benchmark
-- [arXiv22] ✅ WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents [paper](https://arxiv.org/abs/2207.01206) [note](../../../Notes/Conference/NIPS22/WebShop-Towards-Scalable-Real-World-Web%20Interaction-with-Grounded-Language-Agents.md)
+- [NIPS22] ✅ WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents [paper](https://arxiv.org/abs/2207.01206) [note](../../../Notes/Conference/NIPS22/WebShop-Towards-Scalable-Real-World-Web-Interaction-with-Grounded-Language-Agents.md)
 - [NIPS23] InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback [paper](https://arxiv.org/abs/2306.14898)
 - [ICLR24] AgentBench: Evaluating LLMs as Agents [paper](https://arxiv.org/abs/2308.03688) [code](https://github.com/THUDM/AgentBench)
 
