@@ -5,33 +5,31 @@
 - [arXiv24] ✅ A Survey on Large Language Model based Autonomous Agents [paper](https://arxiv.org/abs/2308.11432) [code](https://github.com/Paitesanshi/LLM-Agent-Survey) [note](../../../Notes/Arxiv/2024/A-Survey-on-Large-Language-Model-based-Autonomous-Agents.md)
 - [Others] Language Agents From Next-Token Prediction to Digital Automation [paper](https://ysymyth.github.io/papers/Dissertation-finalized.pdf) [video](https://www.bilibili.com/video/BV1zz421m7gV/)
 
-## Single Agent
+## Benchmark
+- [NIPS22] ✅ WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents [paper](https://arxiv.org/abs/2207.01206) [note](../../../Notes/Conference/NIPS22/WebShop-Towards-Scalable-Real-World-Web-Interaction-with-Grounded-Language-Agents.md)
+- [NIPS23] ✅ InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback [paper](https://arxiv.org/abs/2306.14898) [code](https://github.com/princeton-nlp/intercode) [note](../../../Notes/Conference/NIPS23/InterCode-Standardizing-and-Benchmarking-Interactive-Coding-with-Execution-Feedback.md)
+- [ICLR24] AgentBench: Evaluating LLMs as Agents [paper](https://arxiv.org/abs/2308.03688) [code](https://github.com/THUDM/AgentBench)
+## Planning
+- [NIPS22] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [paper](https://arxiv.org/abs/2201.11903)
+- [arXiv23] Tree of Thoughts: Deliberate Problem Solving with Large Language Models [paper](https://arxiv.org/abs/2305.10601)
 - [ICLR23] ReAct: Synergizing Reasoning and Acting in Language Models [paper](https://arxiv.org/abs/2210.03629) [code](https://github.com/ysymyth/ReAct)
+- [NIPS23] Reflexion: Language Agents with Verbal Reinforcement Learning [paper](https://arxiv.org/abs/2303.11366) [code](https://github.com/noahshinn/reflexion)
+- [arXiv23] Chain of Hindsight Aligns Language Models with Feedback [paper](https://arxiv.org/abs/2302.02676)
+- [arXiv24] AutoGPT+P: Affordance-based Task Planning with Large Language Models. [paper](https://arxiv.org/abs/2402.10778)
+- [ICML24] Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models. [paper](https://arxiv.org/abs/2310.04406) [code](https://github.com/andyz245/LanguageAgentTreeSearch)
 
+## Memory
 - [arXiv24] From LLM to Conversational Agent: A Memory Enhanced Architecture with Fine-Tuning of Large Language Models [paper](https://arxiv.org/abs/2401.02777)
 
-- [NIPS23] Reflexion: Language Agents with Verbal Reinforcement Learning [paper](https://arxiv.org/abs/2303.11366) [code](https://github.com/noahshinn/reflexion)
-
-- [arXiv24] AutoGPT+P: Affordance-based Task Planning with Large Language Models. [paper](https://arxiv.org/abs/2402.10778)
-
-- [ICML24] Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models. [paper](https://arxiv.org/abs/2310.04406) [code](https://github.com/andyz245/LanguageAgentTreeSearch)
-- [arXiv23] Voyager: An Open-Ended Embodied Agent with Large Language Models [paper](https://arxiv.org/abs/2305.16291) [code](https://github.com/MineDojo/Voyager)
-
-## Multi Agent
+## Tool Use
+- [ICLR24] ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs [paper](https://arxiv.org/abs/2307.16789) [code](https://github.com/OpenBMB/ToolBench)
+## Collaboration
 - [arXiv24] Embodied LLM Agents Learn to Cooperate in Organized Teams. [paper](https://arxiv.org/abs/2403.12482)  [code](https://github.com/tobeatraceur/Organized-LLM-Agents)
 - [arXiv23] Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization. [paper](https://arxiv.org/abs/2310.02170) [code](https://github.com/SALT-NLP/DyLAN)
 
 - [ICLR24] AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors. [paper](https://arxiv.org/abs/2308.10848) [code](https://github.com/OpenBMB/AgentVerse/)
 
 - [ICLR24] MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework. [paper](https://arxiv.org/abs/2308.00352) [code](https://github.com/geekan/MetaGPT)
-
-## Benchmark
-- [NIPS22] ✅ WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents [paper](https://arxiv.org/abs/2207.01206) [note](../../../Notes/Conference/NIPS22/WebShop-Towards-Scalable-Real-World-Web-Interaction-with-Grounded-Language-Agents.md)
-- [NIPS23] InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback [paper](https://arxiv.org/abs/2306.14898)
-- [ICLR24] AgentBench: Evaluating LLMs as Agents [paper](https://arxiv.org/abs/2308.03688) [code](https://github.com/THUDM/AgentBench)
-
-## Tools
-- ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs [paper](https://arxiv.org/abs/2307.16789) [code](https://github.com/OpenBMB/ToolBench)
 
 ## Repositories
 **Paper List**
@@ -40,6 +38,8 @@
 - [ysymyth/awesome-language-agents](https://github.com/ysymyth/awesome-language-agents)
 
 - [thunlp/ToolLearningPapers (github.com)](https://github.com/thunlp/ToolLearningPapers)
+- [AGI-Edgerunners/LLM-Agents-Papers: A repo lists papers related to LLM based agent (github.com)](https://github.com/AGI-Edgerunners/LLM-Agents-Papers)
+- [LLM Powered Autonomous Agents | Lil'Log (lilianweng.github.io)](https://lilianweng.github.io/posts/2023-06-23-agent/)
 
 **Agent System Projects**
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
