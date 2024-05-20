@@ -9,8 +9,9 @@
 - [NIPS22] ✅ WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents [paper](https://arxiv.org/abs/2207.01206) [note](../../../Notes/Conference/NIPS22/WebShop-Towards-Scalable-Real-World-Web-Interaction-with-Grounded-Language-Agents.md)
 - [NIPS23] ✅ InterCode: Standardizing and Benchmarking Interactive Coding with Execution Feedback [paper](https://arxiv.org/abs/2306.14898) [code](https://github.com/princeton-nlp/intercode) [note](../../../Notes/Conference/NIPS23/InterCode-Standardizing-and-Benchmarking-Interactive-Coding-with-Execution-Feedback.md)
 - [ICLR24] AgentBench: Evaluating LLMs as Agents [paper](https://arxiv.org/abs/2308.03688) [code](https://github.com/THUDM/AgentBench)
+
 ## Planning
-- [NIPS22] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [paper](https://arxiv.org/abs/2201.11903)
+- [NIPS22] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [paper](https://arxiv.org/abs/2201.11903) [note](../../../Notes/Conference/NIPS22/Chain-of-Thought-Prompting-Elicits-Reasoning-in-Large-Language-Models.md)
 - [arXiv23] Tree of Thoughts: Deliberate Problem Solving with Large Language Models [paper](https://arxiv.org/abs/2305.10601)
 - [ICLR23] ReAct: Synergizing Reasoning and Acting in Language Models [paper](https://arxiv.org/abs/2210.03629) [code](https://github.com/ysymyth/ReAct)
 - [NIPS23] Reflexion: Language Agents with Verbal Reinforcement Learning [paper](https://arxiv.org/abs/2303.11366) [code](https://github.com/noahshinn/reflexion)
@@ -23,6 +24,7 @@
 
 ## Tool Use
 - [ICLR24] ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs [paper](https://arxiv.org/abs/2307.16789) [code](https://github.com/OpenBMB/ToolBench)
+
 ## Collaboration
 - [arXiv24] Embodied LLM Agents Learn to Cooperate in Organized Teams. [paper](https://arxiv.org/abs/2403.12482)  [code](https://github.com/tobeatraceur/Organized-LLM-Agents)
 - [arXiv23] Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization. [paper](https://arxiv.org/abs/2310.02170) [code](https://github.com/SALT-NLP/DyLAN)
