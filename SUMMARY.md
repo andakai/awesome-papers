@@ -13,6 +13,7 @@
 		- [InterCode-Standardizing-and-Benchmarking-Interactive-Coding-with-Execution-Feedback](Notes/Conference/NIPS23/InterCode-Standardizing-and-Benchmarking-Interactive-Coding-with-Execution-Feedback.md)
 	- [NIPS22](Notes/Conference/NIPS22/README.md)
 		- [WebShop-Towards-Scalable-Real-World-Web-Interaction-with-Grounded-Language-Agents](Notes/Conference/NIPS22/WebShop-Towards-Scalable-Real-World-Web-Interaction-with-Grounded-Language-Agents.md)
+		- [Chain-of-Thought-Prompting-Elicits-Reasoning-in-Large-Language-Models](Notes/Conference/NIPS22/Chain-of-Thought-Prompting-Elicits-Reasoning-in-Large-Language-Models.md)
 - [Journal](Notes/Journal/README.md)
 - [Arxiv](Notes/Arxiv/README.md)
 	- [2024](Notes/Arxiv/2024/README.md)
