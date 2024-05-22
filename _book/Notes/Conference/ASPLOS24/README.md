@@ -1,4 +1,0 @@
-# ASPLOS24
-
-## Papers
-- 

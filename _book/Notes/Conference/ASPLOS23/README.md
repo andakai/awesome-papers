@@ -1,4 +1,0 @@
-# ASPLOS23
-
-## Papers
-- 
