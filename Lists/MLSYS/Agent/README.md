@@ -11,10 +11,10 @@
 - [ICLR24] AgentBench: Evaluating LLMs as Agents [paper](https://arxiv.org/abs/2308.03688) [code](https://github.com/THUDM/AgentBench)
 
 ## Planning
-- [NIPS22] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [paper](https://arxiv.org/abs/2201.11903) [note](../../../Notes/Conference/NIPS22/Chain-of-Thought-Prompting-Elicits-Reasoning-in-Large-Language-Models.md)
+- [NIPS22] ✅ Chain-of-Thought Prompting Elicits Reasoning in Large Language Models [paper](https://arxiv.org/abs/2201.11903) [note](../../../Notes/Conference/NIPS22/Chain-of-Thought-Prompting-Elicits-Reasoning-in-Large-Language-Models.md)
 - [arXiv23] Tree of Thoughts: Deliberate Problem Solving with Large Language Models [paper](https://arxiv.org/abs/2305.10601)
-- [ICLR23] ReAct: Synergizing Reasoning and Acting in Language Models [paper](https://arxiv.org/abs/2210.03629) [code](https://github.com/ysymyth/ReAct)
-- [NIPS23] Reflexion: Language Agents with Verbal Reinforcement Learning [paper](https://arxiv.org/abs/2303.11366) [code](https://github.com/noahshinn/reflexion)
+- [ICLR23] ✅ ReAct: Synergizing Reasoning and Acting in Language Models [paper](https://arxiv.org/abs/2210.03629) [code](https://github.com/ysymyth/ReAct) [note](../../../Notes/Conference/ICLR23/ReAct-Synergizing-Reasoning-and-Acting-in-Language-Models.md)
+- [NIPS23] ✅ Reflexion: Language Agents with Verbal Reinforcement Learning [paper](https://arxiv.org/abs/2303.11366) [code](https://github.com/noahshinn/reflexion) [note](../../../Notes/Conference/NIPS23/Reflexion-Language-Agents-with-Verbal-Reinforcement-Learning.md)
 - [arXiv23] Chain of Hindsight Aligns Language Models with Feedback [paper](https://arxiv.org/abs/2302.02676)
 - [arXiv24] AutoGPT+P: Affordance-based Task Planning with Large Language Models. [paper](https://arxiv.org/abs/2402.10778)
 - [ICML24] Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models. [paper](https://arxiv.org/abs/2310.04406) [code](https://github.com/andyz245/LanguageAgentTreeSearch)

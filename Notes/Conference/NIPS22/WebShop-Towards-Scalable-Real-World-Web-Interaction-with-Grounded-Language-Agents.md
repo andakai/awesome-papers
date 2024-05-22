@@ -57,3 +57,7 @@ To further explore the benefit of this environment, this paper focuses on **e-co
 - Memory module: memory module is important now.
 
 - The buying steps are decomposed by humans.   -> by LLMs
+
+## Other's reviews
+- We investigate WebShop (Yao et al., 2022), a recently proposed online shopping website environment with 1.18M real-world products and 12k human instructions. Unlike ALFWorld, Webshop contains a high variety of structured and unstructured texts (e.g. product titles, descriptions, and options crawled from Amazon), and requires an agent to purchase a product based on a user instruction (e.g. “I am looking for a nightstand with drawers. It should have a nickel finish, and priced lower than $140”) through web interactions (e.g. search “nightstand drawers”, choose buttons such as “color: modern-nickel-white” or “back to search”). [ReAct-Synergizing-Reasoning-and-Acting-in-Language-Models](../ICLR23/ReAct-Synergizing-Reasoning-and-Acting-in-Language-Models.md)
+- 
